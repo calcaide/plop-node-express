@@ -1,0 +1,25 @@
+{
+  "name": "plop-node-express",
+  "version": "0.1.0",
+  "description": "WIP",
+  "main": "plopfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "Plop",
+    "node",
+    "express",
+    "nodemon",
+    "generator",
+    "ES6",
+    "babel",
+    "ESLint"
+  ],
+  "author": "Carlos Alcaide",
+  "license": "MIT"
+}
