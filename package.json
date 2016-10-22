@@ -1,6 +1,6 @@
 {
   "name": "plop-node-express",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Plop generator for Node + Express apps",
   "main": "plopfile.js",
   "scripts": {},
