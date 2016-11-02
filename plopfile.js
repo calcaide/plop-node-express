@@ -36,7 +36,7 @@ module.exports = function(plop){
             actions.push({
                 type: 'add',
                 path: '.gitignore',
-                templateFile: 'node_modules/plop-node-express/templates/.gitignore'
+                templateFile: 'node_modules/plop-node-express/templates/.##gitignore##'
             });
 
             // Copy .editorconfig file
